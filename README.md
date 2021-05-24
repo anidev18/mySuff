@@ -1,4 +1,4 @@
-# mySuffering
+# My Suffering. 
 
 Here you go -- https://anidev18.github.io/mySuffering/
 
